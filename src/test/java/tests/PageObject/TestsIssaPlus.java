@@ -4,7 +4,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TestsIssaPlus extends Testinit {
-    private HomePageIssaPlus homePageIssaPlus;
 
     @Test
     public void test1findProductInCart() {
