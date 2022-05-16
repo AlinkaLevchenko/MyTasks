@@ -65,6 +65,21 @@ public class TestsIssaPlus extends Testinit {
 
         Assert.assertTrue(homePageEatStreet.seeMenuMamaOliviasPizzeria().isDisplayed());
     }
+
+    @Test
+    public void checkDeliveryDriver() {
+        HomePageEatStreet homePageEatStreet = new HomePageEatStreet(driver);
+        openSite("https://eatstreet.com/");
+        homePageEatStreet.clouseGoItBtn().click();
+        homePageEatStreet.getToApplyNow().click();
+        sleep(3);
+        homePageEatStreet.selectDekalb().sendKeys("Dekalb,IL");
+        homePageEatStreet.getAppleHere().click();
+        sleep(5);
+        homePageEatStreet.switchTabs(homePageEatStreet.getTabs().get(1));
+
+        Assert.assertTrue(driver.getCurrentUrl().contains("fountain"));
+    }
 }
 
 
