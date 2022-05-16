@@ -21,4 +21,18 @@ public class TestsIssaPlus extends Testinit {
 
         Assert.assertTrue(homePageIssaPlus.IconFavorCout().isDisplayed());
     }
+
+    @Test
+    public void checkPheonixBreakfastCuisine() {
+        HomePageEatStreet homePageEatStreet = new HomePageEatStreet(driver);
+        openSite("https://eatstreet.com/");
+        homePageEatStreet.clouseGoItBtn().click();
+        homePageEatStreet.selectCityPhoenix().click();
+        sleep(4);
+        homePageEatStreet.selectAmericanFood().get(2).click();
+        sleep(5);
+
+        Assert.assertTrue(homePageEatStreet.PhoenixRestauran().isDisplayed());
+    }
 }
+
