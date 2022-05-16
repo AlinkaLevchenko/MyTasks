@@ -10,7 +10,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Testinit {
-    WebDriver driver;
+
+    public WebDriver driver;
 
     @BeforeMethod
     public void setUp() {
