@@ -80,6 +80,7 @@ public class TestsIssaPlus extends Testinit {
 
         Assert.assertTrue(driver.getCurrentUrl().contains("fountain"));
     }
+
     @Test
     public void apllyInYourCity() {
         HomePageEatStreet homePageEatStreet = new HomePageEatStreet(driver);
