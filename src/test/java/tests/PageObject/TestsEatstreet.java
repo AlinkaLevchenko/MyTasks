@@ -33,7 +33,7 @@ public class TestsEatstreet extends Testinit {
     }
 
     @Test
-    public void test1FindElementClick() {
+    public void checkRestaurantsInNY() {
         HomePageEatStreet homePageEatStreet = new HomePageEatStreet(driver);
         openSite("https://eatstreet.com/");
         homePageEatStreet.clouseGoItBtn().click();

@@ -49,7 +49,7 @@ public class HomePageEatStreet extends BasePage {
     }
 
     public WebElement canChooseRestaurant() {
-        return driver.findElement(By.xpath("//h1[@class='restaurants-list_header ng-binding ng-scope']"));
+        return driver.findElement(By.xpath("//div/h1[@class='restaurants-list_header ng-binding ng-scope']"));
     }
 
     public WebElement openInColoradoDenver() {
