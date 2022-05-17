@@ -103,6 +103,18 @@ public class TestsIssaPlus extends Testinit {
         sleep(3);
         Assert.assertTrue(homePageEatStreet.chooseFoodPhoenix().isDisplayed());
     }
+
+    @Test
+    public void designApartmentInSmartRoom() {
+        HomePageInteriorDesign homePageInteriorDesign =  new HomePageInteriorDesign(driver);
+        openSite("https://polyakova.biz/ua");
+        homePageInteriorDesign.portfolioBtn().click();
+        homePageInteriorDesign.smartRoomsopen().click();
+        homePageInteriorDesign.roomInCampus().click();
+
+        Assert.assertTrue(homePageInteriorDesign.photoDesignFlatCampus().isDisplayed());
+    }
 }
+
 
 
