@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class TestZakazUa extends Testinit {
 
     @Test
-    public void put10ProductsInBasket() {
+    public void putProductInBasket() {
         HomePageZakazUa homePageZakazUa = new HomePageZakazUa(driver);
         openSite("https://zakaz.ua/uk/");
         sleep(3);
