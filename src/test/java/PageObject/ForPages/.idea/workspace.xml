@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5b2e285-3265-4a27-8cc9-d77688536613" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com/company/GoogleHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyHomeWork/LessonOne/LessonBasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com/company/MathOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyHomeWork/LessonOne/MathOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com/company/NewClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyHomeWork/LessonOne/CikleFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/CheckIncoreckSignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyHomeWork/CheckIncoreckSignIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/NewClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyHomeWork/PrintPracticeTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/NewClassAL1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyHomeWork/TestGoogleActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/NewProject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../IntTests/MethodInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/NewTestEatstreet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyHomeWork/NewTestEatstreet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/OblastVidimosti.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../IntTests/MethodIntBoolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/PageObject/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/PageObject/HomePageEatStreet.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomePageEatStreet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/PageObject/HomePageInteriorDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomePageInteriorDesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/PageObject/HomePageIssaPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomePageIssaPlus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/PageObject/TestDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTests/TestDesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/PageObject/Testinit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTests/Testinit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/PageObject/TestsEatstreet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTests/TestsEatstreet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/PageObject/TestsIssaPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTests/TestsIssaPlus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/TenTestsEatStreet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyHomeWork/TenTestsEatStreet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/TestInteriorDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ForTests/TestInteriorDesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/TestRobocode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyHomeWork/TestRobocode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/TestSearchGoogle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyHomeWork/TestSearchGoogle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/TestWebDriwer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyHomeWork/OpenSaiteKitten.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/TestinitOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyHomeWork/Testinit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/com/company/GoogleHomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/com/company/MathOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/com/company/NewClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/CheckIncoreckSignIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/NewClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/NewClassAL1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/NewProject1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/NewTestEatstreet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/OblastVidimosti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/PageObject/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/PageObject/HomePageEatStreet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/PageObject/HomePageInteriorDesign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/PageObject/HomePageIssaPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/PageObject/TestDesign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/PageObject/Testinit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/PageObject/TestsEatstreet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/PageObject/TestsIssaPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/TenTestsEatStreet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/TestInteriorDesign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/TestRobocode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/TestSearchGoogle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/TestWebDriwer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/test-classes/tests/TestinitOne.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="29bZiMbnEpMXFzMEC6GbCzcEnvP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5b2e285-3265-4a27-8cc9-d77688536613" name="Default Changelist" comment="" />
+      <created>1653383872179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653383872179</updated>
+    </task>
+    <servers />
+  </component>
+</project>
